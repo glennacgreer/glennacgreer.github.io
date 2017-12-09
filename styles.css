@@ -1,0 +1,28 @@
+body {
+	font-family: Verdana, Arial, sans-serif;
+}
+
+body {
+	width: auto;
+	max-width: 1100px;
+	margin: auto;
+}
+
+a {
+	color: black;
+}
+
+img {
+	text-align: center; 
+	width: auto;
+	max-width: 1000px;
+}
+
+.hidden {
+	color: black;
+	text-decoration: none;
+}
+	
+input[type=submit] {
+	background-color: AliceBlue;
+}
