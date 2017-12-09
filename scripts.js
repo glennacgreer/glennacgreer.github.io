@@ -4,6 +4,7 @@ function refleciton() {
 		window.location.assign("bplinside.html") ;
 	}
 	else {
+		text = "Try again.";
 		window.location.assign("reflectionpool.html");
 	}
 }
@@ -14,6 +15,7 @@ function inside() {
 		window.location.assign("courtyard.html");
 	}
 	else {
+		text = "Try again.";
 		window.location.assign("bplinside.html");
 	}
 }
@@ -24,6 +26,7 @@ function courtyard() {
 		window.location.assign("end.html");
 	}
 	else {
+		text = "Try again.";
 		window.location.assign("courtyard.html");
 	}
 }
